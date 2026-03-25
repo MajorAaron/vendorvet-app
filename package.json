@@ -1,0 +1,12 @@
+{
+  "name": "vendorvet-app",
+  "version": "1.0.0",
+  "description": "AI-Powered Vendor Risk Intelligence Platform for Small Businesses",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "dev": "npx netlify dev"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.14.0"
+  }
+}
